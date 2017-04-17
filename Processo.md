@@ -1,4 +1,4 @@
-# PSCA - Processo Simplificado de Construção de Artefato
+# PSCA - Processo Simplificado de Construção de Artefatos
 
 
 ## Propósito
