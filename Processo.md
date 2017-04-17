@@ -31,7 +31,9 @@ Meio: Há definir pela equipe.
 ### 1. Gerência de Projeto
 - Macro Fluxo
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/Fluxo%20Ger%20Projeto.png)
+
 - Atividades
+
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/Atividade%20Ger%20Projet.png)
 ### 2. Gerência de Requisito
 - Macro Fluxo
