@@ -12,11 +12,13 @@ O propósito do processo é estabelecer e manter planos que definem as atividade
 
 ## Papeis
 ### Gerente de Projeto
-![Imgem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Projeto.PNG)
+![Imagem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Projeto.PNG)
 
 ### Gerente de Requisito
+![Imagem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Requi.PNG)
 
 ### Arquiteto de Software
+![Imagem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Sw.PNG)
 
 ## Comunicações
 1. Sempre que o Gerente de Projeto julgar necessário.
