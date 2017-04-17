@@ -45,9 +45,10 @@ Meio: Há definir pela equipe.
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/Atividade%20Requi.png)
 
 ### 3. Gerência de Arquitetura
-- Macro Fluxo
+#### Macro Fluxo
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/modeloDesign.png)
 
-- Atividades
+#### Atividades
+![Imagem](https://github.com/antlisufg/imagens/blob/master/Atividade%20design.png)
 
 
