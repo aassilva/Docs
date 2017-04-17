@@ -15,7 +15,7 @@ O propósito do processo é estabelecer e manter planos que definem as atividade
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Projeto.PNG)
 
 ### Gerente de Requisito
-![Imagem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Requi.PNG)
+![Imagem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Requisito.PNG)
 
 ### Arquiteto de Software
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/Papel%20Ger.%20Sw.PNG)
