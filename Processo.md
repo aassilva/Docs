@@ -38,10 +38,10 @@ Meio: Há definir pela equipe.
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/Atividade%20Ger%20Projet.png)
 
 ### 2. Gerência de Requisito
-- Macro Fluxo
+#### Macro Fluxo
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/modeloRequi.png)
 
-- Atividades
+#### Atividades
 ![Imagem](https://github.com/antlisufg/imagens/blob/master/Atividade%20Requi.png)
 
 ### 3. Gerência de Arquitetura
