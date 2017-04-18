@@ -9,7 +9,7 @@ O propósito do processo é estabelecer e manter planos que definem as atividade
 - Projeto deverá seguir o Plano de Configuração sem que haja desvio em relação a sua versão atual.
 - Sempre que houver alteração no Plano de Configuração todos os artefatos já aprovados serão modificados para atender ao mesmo.
 - Sempre que ocorrer replanejamento o Plano Geral do Projeto deve ser atualizado e validado.
-- As atividades de garantia da qualidade serão realizadas de forma informal, porém torna-se obrigatório o uso de processo de garantia da qualidade do MPS.Br como base. [Disponível aqui.](http://www.softex.br/wp-content/uploads/2016/04/MPS.BR_Guia_Geral_Software_2016-com-ISBN.pdf?x15632).
+- As atividades de garantia da qualidade serão realizadas de forma informal, porém torna-se obrigatório o uso de processo de garantia da qualidade do MPS.Br como base. [Disponível aqui.](http://www.softex.br/wp-content/uploads/2016/04/MPS.BR_Guia_Geral_Software_2016-com-ISBN.pdf?x15632)
 
 ## Papeis
 ### Gerente de Projeto
